@@ -1,2 +1,4 @@
 # DSA
-Data Structure Algorithm interview Question
+Data Structure Algorithm Interview Question
+Author - Mihir Bhuwad 
+
