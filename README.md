@@ -1,5 +1,6 @@
 # DSA
-Data Structure Algorithm Interview Question
+
+DSA (Data Structure Algorithm) Interview Question 
 <br>
 Author - Mihir Bhuwad 
 
